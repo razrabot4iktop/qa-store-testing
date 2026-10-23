@@ -1,0 +1,25 @@
+---
+- summary: Проверка отображения каталога товаров
+  status: pending
+- summary: Проверка поиска товара по существующему названию
+  status: pending
+- summary: Проверка поиска по отсутствующему запросу
+  status: pending
+- summary: Проверка фильтрации товаров по категории
+  status: pending
+- summary: Проверка открытия карточки товара
+  status: pending
+- summary: Проверка отображения цены и рейтинга товара
+  status: pending
+- summary: Проверка добавления товара в корзину
+  status: pending
+- summary: Проверка удаления товара из корзины
+  status: pending
+- summary: Проверка сохранения корзины после обновления страницы
+  status: pending
+- summary: Проверка переключения языка интерфейса
+  status: pending
+- summary: Проверка отображения магазина на мобильном экране
+  status: pending
+- summary: Проверка перехода к оформлению заказа
+  status: pending
