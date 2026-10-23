@@ -8,7 +8,7 @@
 - summary: Проверка фильтрации товаров по категории
   status: pass
 - summary: Проверка открытия карточки товара
-  status: pending
+  status: pass
 - summary: Проверка отображения цены и рейтинга товара
   status: pending
 - summary: Проверка добавления товара в корзину
