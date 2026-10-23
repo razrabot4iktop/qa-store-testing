@@ -10,7 +10,7 @@
 - summary: Проверка открытия карточки товара
   status: pass
 - summary: Проверка отображения цены и рейтинга товара
-  status: pending
+  status: pass
 - summary: Проверка добавления товара в корзину
   status: pending
 - summary: Проверка удаления товара из корзины
