@@ -19,9 +19,10 @@ test-cases:
   - summary: Проверка сохранения корзины после обновления страницы
     status: pass
   - summary: Проверка переключения языка интерфейса
-    status: pending
+    status: fail
   - summary: Проверка отображения магазина на мобильном экране
     status: pending
   - summary: Проверка перехода к оформлению заказа
     status: pending
-bugreports: []
+bugreports:
+  - Описание товара остаётся на английском при переключении языка интерфейса
