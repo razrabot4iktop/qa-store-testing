@@ -7,7 +7,7 @@ test-cases:
   - summary: Проверка поиска по отсутствующему запросу
     status: pass
   - summary: Проверка фильтрации товаров по категории
-    status: pending
+    status: pass
   - summary: Проверка открытия карточки товара
     status: pending
   - summary: Проверка отображения цены и рейтинга товара
