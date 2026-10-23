@@ -1,7 +1,7 @@
 ---
 test-cases:
   - summary: Проверка отображения каталога товаров
-    status: pending
+    status: pass
   - summary: Проверка поиска товара по существующему названию
     status: pending
   - summary: Проверка поиска по отсутствующему запросу
