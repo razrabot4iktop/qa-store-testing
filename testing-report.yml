@@ -20,6 +20,6 @@
 - summary: Проверка переключения языка интерфейса
   status: fail
 - summary: Проверка отображения магазина на мобильном экране
-  status: pending
+  status: pass
 - summary: Проверка перехода к оформлению заказа
   status: pending
