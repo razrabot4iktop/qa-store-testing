@@ -15,7 +15,7 @@ test-cases:
   - summary: Проверка добавления товара в корзину
     status: pass
   - summary: Проверка удаления товара из корзины
-    status: pending
+    status: pass
   - summary: Проверка сохранения корзины после обновления страницы
     status: pending
   - summary: Проверка переключения языка интерфейса
