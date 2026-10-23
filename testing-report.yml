@@ -22,4 +22,4 @@
 - summary: Проверка отображения магазина на мобильном экране
   status: pass
 - summary: Проверка перехода к оформлению заказа
-  status: pending
+  status: fail
